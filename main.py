@@ -17,7 +17,7 @@ start_message = """
 <b>I am an AutoCaption bot for @chap_lin_sl 🇱🇰 </b>
 <b>All you have to do is add me to your channel and I will show you my power</b>
 
-<b>Hosted by @Ravindu Deshan 🇱🇰</b>"""
+<b>Hosted by @Ravindu_Deshan 🇱🇰</b>"""
 
 about_message = """
 <b>• Name : [AutoCaption V1](t.me/{username})</b>
